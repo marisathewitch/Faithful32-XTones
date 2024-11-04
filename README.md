@@ -3,6 +3,8 @@
 
 WIP Faithful 32 resource pack for XTones (1.12.2).
 
+**Right now ready only Bitt blocks**
+
 # Dont forget unpack zip file
 
 Unzip folder "Faithful32-XTones" and place in .minecraft\resourcepacks.
