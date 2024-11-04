@@ -1,0 +1,9 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "textures": [
+            "xtones:blocks/bitt/15_ctm"
+        ]
+    }
+}
