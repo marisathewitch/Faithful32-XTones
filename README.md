@@ -5,8 +5,7 @@ WIP Faithful 32 resource pack for XTones (1.12.2).
 
 **Right now ready only Bitt blocks**
 
-# Dont forget unpack zip file
-
-Unzip folder "Faithful32-XTones" and place in .minecraft\resourcepacks.
-
-Inside game place this Resource pack above "F32 Modded" and "Faithful F32"
+## Installation
+1. Download the Resource Pack from our [Nightly Page](https://nightly.link/marisathewitch/Faithful32-XTones/workflows/build/main/Faithful32-XTones).
+2. Place it into your instance's Resouce Pack Folder.
+3. Inside the game, place this Resource Pack above "F32 Modded" and "Faithful F32".
